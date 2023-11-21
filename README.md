@@ -4,40 +4,40 @@
 
 Qu'est-ce que Git ?
 
-- [ ] Un système de gestion de base de données
+- [ ]Un système de gestion de base de données
 - [ ] Un logiciel de retouche d'image
-- [ ] Un langage de programmation
+- [x] Un langage de programmation
 
 ### II. Les Concepts Fondamentaux de Git
 
 Qu'est-ce qu'un "répertoire Git" ?
 
 - [ ] Un dossier qui contient des fichiers de configuration Git
-- [ ] Un espace de stockage pour les données Git
+- [x] Un espace de stockage pour les données Git
 - [ ] Un compte utilisateur sur Git
 
 Qu'est-ce qu'un "commit" en Git ?
 
 - [ ] Une opération de fusion de branches
-- [ ] Une opération de validation de modifications
+- [x] Une opération de validation de modifications
 - [ ] Une opération de suppression de fichiers
 
 Comment créez-vous une nouvelle branche en Git ?
 
 - [ ] git add nouvelle-branche
-- [ ] git checkout -b nouvelle-branche
+- [x] git checkout -b nouvelle-branche
 - [ ] git commit -m nouvelle-branche
 
 Quelle est la différence entre la fusion (Merging) et le rébase (Rebasing) en Git ?
 
-- [ ] La fusion combine les modifications de deux branches, tandis que le rébase réécrit l'historique.
+- [x] La fusion combine les modifications de deux branches, tandis que le rébase réécrit l'historique.
 - [ ] La fusion est plus rapide que le rébase.
 - [ ] La fusion crée une nouvelle branche, tandis que le rébase n'en crée pas.
 
 Quel est le rôle de l'index (Staging Area) en Git ?
 
 - [ ] Un espace de stockage des fichiers inutiles
-- [ ] Une zone intermédiaire où vous préparez les modifications à valider
+- [x] Une zone intermédiaire où vous préparez les modifications à valider
 - [ ] Un dossier secret de Git
 
 ### III. Configuration de Git
@@ -45,7 +45,7 @@ Quel est le rôle de l'index (Staging Area) en Git ?
 Comment installez-vous Git sur votre système ?
 
 - [ ] En utilisant la commande git install
-- [ ] En téléchargeant l'application Git sur le site web de Git
+- [x] En téléchargeant l'application Git sur le site web de Git
 - [ ] En demandant à un ami de vous l'envoyer par e-mail
 
 Quels sont les paramètres globaux et locaux de configuration Git ?
